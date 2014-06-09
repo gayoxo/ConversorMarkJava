@@ -1,0 +1,388 @@
+I
+355
+A 
+Security Classification Control
+ID1
+Controlled element
+0
+Document 
+1
+Title 
+2
+Abstract 
+3
+Contents note 
+4
+Author 
+5
+Record 
+8
+None of the above  
+B
+$a
+Security classification  
+$b
+Handling instructions  
+$c
+External dissemination information  
+$d
+Downgrading or declassification event  
+$e
+Classification system  
+$f
+Country of origin code  
+$g
+Downgrading date  
+$h
+Declassification date  
+$j
+Authorization  
+$6
+Linkage  
+$8
+Field link and sequence number  
+I
+357
+A 
+Originator Dissemination Control   
+B
+$a
+Originator control term  
+$b
+Originating agency  
+$c
+Authorized recipients of material  
+$g
+Other restrictions  
+$6
+Linkage  
+$8
+Field link and sequence number  
+I
+362
+A 
+Dates of PublicationAnd/or Sequential Designation   
+ID1
+Format of date
+0
+Formatted style 
+1
+Unformatted note 
+B
+$a
+Dates of publication and/or sequential designation  
+$z
+Source of information  
+$6
+Linkage  
+$8
+Field link and sequence number  
+I
+363
+A 
+Normalized DateAnd Sequential Designation   
+ID1
+Start/End designator
+#
+No information provided
+0
+Starting information
+1
+Ending information
+ID2
+State of issuance
+#
+Not specified
+0
+Closed
+1
+Open
+B
+$a
+First level of enumeration 
+$b
+Second level of enumeration 
+$c
+Third level of enumeration 
+$d
+Fourth level of enumeration 
+$e
+Fifth level of enumeration 
+$f
+Sixth level of enumeration 
+$g
+Alternative numbering scheme, first level of enumeration 
+$h
+Alternative numbering scheme, second level of enumeration 
+$i
+First level of chronology 
+$j
+Second level of chronology 
+$k
+Third level of chronology 
+$l
+Fourth level of chronology 
+$m
+Alternative numbering scheme, chronology 
+$u
+First level textual designation 
+$v
+First level of chronology, issuance 
+$x
+Nonpublic note 
+$z
+Public note 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+365
+A 
+Trade Price   
+B
+$a
+Price type code  
+$b
+Price amount  
+$c
+Currency code  
+$d
+Unit of pricing  
+$e
+Price note  
+$f
+Price effective from  
+$g
+Price effective until  
+$h
+Tax rate 1  
+$i
+Tax rate 2  
+$j
+ISO country code  
+$k
+MARC country code  
+$m
+Identification of pricing entity  
+$2
+Source of price type code  
+$6
+Linkage  
+$8
+Field link and sequence number  
+I
+366
+A 
+TradeAvailability Information   
+B
+$a
+Publishers' compressed title identification  
+$b
+Detailed date of publication  
+$c
+Availability status code  
+$d
+Expected next availability date  
+$e
+Note  
+$f
+Publisher's discount category  
+$g
+Date made out of print  
+$j
+ISO country code  
+$k
+MARC country code  
+$m
+Identification of agency  
+$2
+Source of availability status code  
+$6
+Linkage  
+$8
+Field link and sequence number  
+I
+377
+A 
+Associated Language   
+ID2
+Source of code
+#
+MARC language code
+7
+Source specified in subfield $2
+B
+$a
+Language code 
+$l
+Language term 
+$2
+Source 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+380
+A 
+Form of Work   
+B
+$a
+Form of work 
+$0
+Record control number 
+$2
+Source of term 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+381
+A 
+Other Distinguishing Characteristics of Work or Expression
+B
+$a
+Other distinguishing characteristic 
+$u
+Uniform Resource Identifier 
+$v
+Source of information 
+$0
+Record control number 
+$2
+Source of term 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+382
+A 
+Medium of Performance
+ID1
+Display constant controller
+#
+No information provided
+0
+Medium of performance
+1
+Partial medium of performance
+ID2
+Access control
+#
+No information provided
+0
+Not intended for access
+1
+Intended for access
+B
+$a
+Medium of performance 
+$b
+Soloist 
+$d
+Doubling instrument 
+$n
+Number of performers of the same medium 
+$p
+Alternative medium of performance 
+$s
+Total number of performers 
+$v
+Note 
+$0
+Authority record control number or standard number 
+$2
+Source of term 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+383
+A 
+Numeric Designation of Musical Work
+B
+$a
+Serial number 
+$b
+Opus number 
+$c
+Thematic index number 
+$d
+Thematic index code 
+$e
+Publisher associated with opus number 
+$2
+Source 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+384
+A 
+Key
+ID1
+Key type
+#
+Relationship to original unknown 
+0
+Original key 
+1
+Transposed key 
+B
+$a
+Key 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+385
+A 
+Audience Characteristics
+B
+$a
+Audience term 
+$b
+Audience code 
+$m
+Demographic group term 
+$n
+Demographic group code 
+$0
+Authority record control number or standard number 
+$2
+Source 
+$3
+Materials specified 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+386
+A 
+Creator/Contributor Characteristics
+B
+$a
+Creator/contributor term 
+$b
+Creator/contributor code 
+$m
+Demographic group term 
+$n
+Demographic group code 
+$0
+Authority record control number or standard number 
+$2
+Source 
+$3
+Materials specified 
+$6
+Linkage 
+$8
+Field link and sequence number 
