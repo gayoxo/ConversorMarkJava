@@ -1,0 +1,426 @@
+I
+500
+A
+General Note
+B
+$a
+General note 
+$3
+Materials specified 
+$5
+Institution to which field applies 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+501
+A
+With Note
+B
+$a
+With note 
+$5
+Institution to which field applies 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+502
+A
+Dissertation Note
+B
+$a
+Dissertation note
+$b
+Degree type
+$c
+Name of granting institution
+$d
+Year degree granted
+$g
+Miscellaneous information
+$o
+Dissertation identifier
+$6
+Linkage
+$8
+Field link and sequence number
+I
+504
+A
+Bibliography, etc. Note
+B
+$a
+Bibliography, etc. note 
+$b
+Number of references 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+505
+A
+Formatted Contents Note
+ID1
+Display constant controller
+0
+Contents 
+1
+Incomplete contents 
+2
+Partial contents 
+8
+No display constant generated 
+ID2
+Level of content designation
+#
+Basic 
+0
+Enhanced 
+B
+$a
+Formatted contents note 
+$g
+Miscellaneous information 
+$r
+Statement of responsibility 
+$t
+Title 
+$u
+Uniform Resource Identifier 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+506
+A
+Restrictions on Access Note
+ID1
+Restriction
+#
+No information provided 
+0
+No restrictions 
+1
+Restrictions apply 
+B
+$a
+Terms governing access 
+$b
+Jurisdiction 
+$c
+Physical access provisions 
+$d
+Authorized users 
+$e
+Authorization 
+$f
+Standardized terminology for access restriction 
+$u
+Uniform Resource Identifier 
+$2
+Source of term 
+$3
+Materials specified 
+$5
+Institution to which field applies 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+507
+A
+Scale Note for Graphic Material
+B
+$a
+Representative fraction of scale note 
+$b
+Remainder of scale note 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+508
+A
+Creation/Production Credits Note
+B
+$a
+Creation/production credits note 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+510
+A
+Citation/References Note
+ID1
+Coverage/location in source
+0
+Coverage unknown
+1
+Coverage complete
+2
+Coverage is selective
+3
+Location in source not given
+4
+Location in source given
+B
+$a
+Name of source
+$b
+Coverage of source
+$c
+Location within source
+$u
+Uniform Resource Identifier
+$x
+International Standard Serial Number
+$3
+Materials specified
+$6
+Linkage
+$8
+Field link and sequence number
+I
+511
+A
+Participant or Performer Note
+ID1
+Display constant controller
+0
+No display constant generated 
+1
+Cast 
+B
+$a
+Participant or performer note 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+513
+A
+Type of Report and Period Covered Note
+B
+$a
+Type of report 
+$b
+Period covered 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+514
+A
+Data Quality Note
+B
+$a
+Attribute accuracy report 
+$b
+Attribute accuracy value 
+$c
+Attribute accuracy explanation 
+$d
+Logical consistency report 
+$e
+Completeness report 
+$f
+Horizontal position accuracy report 
+$g
+Horizontal position accuracy value 
+$h
+Horizontal position accuracy explanation 
+$i
+Vertical positional accuracy report 
+$j
+Vertical positional accuracy value 
+$k
+Vertical positional accuracy explanation 
+$m
+Cloud cover 
+$u
+Uniform Resource Identifier 
+$z
+Display note 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+515
+A
+Numbering Peculiarities Note
+B
+$a
+Numbering peculiarities note 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+516
+A
+Type of Computer File or Data Note
+ID1
+Display constant controller
+#
+Type of file 
+8
+No display constant generated 
+B
+$a
+Type of computer file or data note 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+518
+A
+Date/Time and Place of an Event Note
+B
+$a
+Date/time and place of an event note
+$d
+Date of event
+$o
+Other event information
+$p
+Place of event
+$0
+Record control number
+$2
+Source of term
+$3
+Materials specified
+$6
+Linkage
+$8
+Field link and sequence number
+I
+520
+A
+Summary, etc.
+ID1
+Display constant controller
+#
+Summary 
+0
+Subject 
+1
+Review 
+2
+Scope and content 
+3
+Abstract 
+4
+Content advice
+8
+No display constant generated 
+B
+$a
+Summary, etc. 
+$b
+Expansion of summary note 
+$c
+Assigning source
+$u
+Uniform Resource Identifier 
+$2
+Source
+$3
+Materials specified 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+521
+A
+Target Audience Note
+ID1
+Display constant controller
+#
+Audience 
+0
+Reading grade level 
+1
+Interest age level 
+2
+Interest grade level 
+3
+Special audience characteristics 
+4
+Motivation/interest level 
+8
+No display constant generated 
+B
+$a
+Target audience note 
+$b
+Source 
+$3
+Materials specified 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+522
+A
+Geographic Coverage Note
+ID1
+Display constant controller
+#
+Geographic coverage 
+8
+No display constant generated 
+B
+$a
+Geographic coverage note 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+524
+A
+Preferred Citation of Described Materials Note
+ID1
+Display constant controller
+#
+Cite as 
+8
+No display constant generated 
+B
+$a
+Preferred citation of described materials note 
+$2
+Source of schema used 
+$3
+Materials specified 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+525
+A
+Supplement Note
+B
+$a
+Supplement note 
+$6
+Linkage 
+$8
+Field link and sequence number 

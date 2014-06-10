@@ -1,0 +1,374 @@
+I
+526
+A
+Study Program Information Note
+ID1
+Display constant controller
+0
+Reading program 
+8
+No display constant generated 
+B
+$a
+Program name 
+$b
+Interest level 
+$c
+Reading level 
+$d
+Title point value 
+$i
+Display text 
+$x
+Nonpublic note 
+$z
+Public note 
+$5
+Institution to which field applies 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+530
+A
+Additional Physical Form available Note
+B
+$a
+Additional physical form available note 
+$b
+Availability source 
+$c
+Availability conditions 
+$d
+Order number 
+$u
+Uniform Resource Identifier 
+$3
+Materials specified 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+534
+A
+Original Version Note
+B
+$a
+Main entry of original
+$b
+Edition statement of original
+$c
+Publication, distribution, etc. of original
+$e
+Physical description, etc. of original
+$f
+Series statement of original
+$k
+Key title of original
+$l
+Location of original
+$m
+Material specific details
+$n
+Note about original
+$o
+Other resource identifier
+$p
+Introductory phrase
+$t
+Title statement of original
+$x
+International Standard Serial Number
+$z
+International Standard Book Number
+$3
+Materials specified
+$6
+Linkage
+$8
+Field link and sequence number
+I
+535
+A
+Location of Originals/Duplicates Note
+ID1
+Custodial role
+1
+Holder of originals 
+2
+Holder of duplicates 
+B
+$a
+Custodian 
+$b
+Postal address 
+$c
+Country 
+$d
+Telecommunications address 
+$g
+Repository location code 
+$3
+Materials specified 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+536
+A
+Funding Information Note
+B
+$a
+Text of note 
+$b
+Contract number 
+$c
+Grant number 
+$d
+Undifferentiated number 
+$e
+Program element number 
+$f
+Project number 
+$g
+Task number 
+$h
+Work unit number 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+538
+A
+System Details Note
+B
+$a
+System details note 
+$i
+Display text 
+$u
+Uniform Resource Identifier 
+$3
+Materials specified 
+$5
+Institution to which field applies
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+540
+A
+Terms Governing Use and Reproduction Note
+B
+$a
+Terms governing use and reproduction 
+$b
+Jurisdiction 
+$c
+Authorization 
+$d
+Authorized users 
+$u
+Uniform Resource Identifier 
+$3
+Materials specified 
+$5
+Institution to which field applies 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+541
+A
+Immediate Source of Acquisition Note
+ID1
+Privacy
+#
+No information provided 
+0
+Private 
+1
+Not private 
+B
+$a
+Source of acquisition 
+$b
+Address 
+$c
+Method of acquisition 
+$d
+Date of acquisition 
+$e
+Accession number 
+$f
+Owner 
+$h
+Purchase price 
+$n
+Extent 
+$o
+Type of unit 
+$3
+Materials specified 
+$5
+Institution to which field applies 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+542
+A
+Information Relating to Copyright Status
+ID1
+Privacy
+#
+No information provided
+0
+Private
+1
+Not private
+B
+$a
+Personal creator
+$b
+Personal creator death date
+$c
+Corporate creator
+$d
+Copyright holder
+$e
+Copyright holder contact information
+$f
+Copyright statement
+$g
+Copyright date
+$h
+Copyright renewal date
+$i
+Publication date
+$j
+Creation date
+$k
+Publisher
+$l
+Copyright status
+$m
+Publication status
+$n
+Note
+$o
+Research date
+$p
+Country of publication or creation
+$q
+Supplying agency
+$r
+Jurisdiction of copyright assessment
+$s
+Source of information
+$u
+Uniform Resource Identifier
+$3
+Materials specified
+$6
+Linkage
+$8
+Field link and sequence number
+I
+544
+A
+Location of Other Archival Materials Note
+ID1
+Relationship
+#
+No information provided 
+0
+Associated materials 
+1
+Related materials 
+B
+$a
+Custodian 
+$b
+Address 
+$c
+Country 
+$d
+Title 
+$e
+Provenance 
+$n
+Note 
+$3
+Materials specified 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+545
+A
+Biographical or Historical Data
+ID1
+Type of data
+#
+No information provided 
+0
+Biographical sketch 
+1
+Administrative history
+B
+$a
+Biographical or historical data 
+$b
+Expansion 
+$u
+Uniform Resource Identifier 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+546
+A
+Language Note
+B
+$a
+Language note
+$b
+Information code or alphabet
+$3
+Materials specified
+$6
+Linkage
+$8
+Field link and sequence number
+I
+547
+A
+Former Title Complexity Note
+B
+$a
+Former title complexity note 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+550
+A
+Issuing Body Note
+B
+$a
+Issuing body note 
+$6
+Linkage 
+$8
+Field link and sequence number 

@@ -1,0 +1,31 @@
+I
+533
+A
+Reproduction Note
+B
+$a
+Type of reproduction 
+$b
+Place of reproduction 
+$c
+Agency responsible for reproduction 
+$d
+Date of reproduction 
+$e
+Physical description of reproduction 
+$f
+Series statement of reproduction 
+$m
+Dates and/or sequential designation of issues reproduced 
+$n
+Note about reproduction 
+$3
+Materials specified 
+$5
+Institution to which field applies 
+$7
+Fixed-length data elements of reproduction 
+$6
+Linkage 
+$8
+Field link and sequence number 
