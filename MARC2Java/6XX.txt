@@ -1,0 +1,762 @@
+I
+600
+A
+Subject Added Entry - Personal Name
+ID1
+Type of personal name entry element
+0
+Forename 
+1
+Surname 
+3
+Family name 
+ID2
+Thesaurus
+0
+Library of Congress Subject Headings 
+1
+LC subject headings for children's literature 
+2
+Medical Subject Headings 
+3
+National Agricultural Library subject authority file 
+4
+Source not specified 
+5
+Canadian Subject Headings 
+6
+Répertoire de vedettes-matière 
+7
+Source specified in subfield 'Version' 
+B
+$a
+Personal name 
+$b
+Numeration 
+$c
+Titles and other words associated with a name 
+$d
+Dates associated with a name 
+$e
+Relator term 
+$f
+Date of a work 
+$g
+Miscellaneous information 
+$h
+Medium 
+$j
+Attribution qualifier 
+$k
+Form subheading 
+$l
+Language of a work 
+$m
+Medium of performance for music 
+$n
+Number of part/section of a work 
+$o
+Arranged statement for music 
+$p
+Name of part/section of a work 
+$q
+Fuller form of name 
+$r
+Key for music 
+$s
+Version 
+$t
+Title of a work 
+$u
+Affiliation 
+$v
+Form subdivision 
+$x
+General subdivision 
+$y
+Chronological subdivision 
+$z
+Geographic subdivision 
+$0
+Authority record control number
+$2
+Source of heading or term 
+$3
+Materials specified 
+$4
+Relator code 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+610
+A
+Subject Added Entry - Corporate Name
+ID1	 
+Type of corporate name entry element
+0
+Inverted name
+1
+Jurisdiction name
+2
+Name in direct order
+ID2
+Thesaurus
+0
+Library of Congress Subject Headings
+1
+LC subject headings for children's literature
+2
+Medical Subject Headings
+3
+National Agricultural Library subject authority file
+4
+Source not specified
+5
+Canadian Subject Headings
+6
+Répertoire de vedettes-matière
+7
+Source specified in subfield 'Source of heading or term'
+B
+$a
+Corporate name or jurisdiction name as entry element
+$b
+Subordinate unit
+$c
+Location of meeting
+$d
+Date of meeting or treaty signing
+$e
+Relator term
+$f
+Date of a work
+$g
+Miscellaneous information
+$h
+Medium
+$k
+Form subheading
+$l
+Language of a work
+$m
+Medium of performance for music
+$n
+Number of part/section/meeting
+$o
+Arranged statement for music
+$p
+Name of part/section of a work
+$r
+Key for music
+$s
+Version
+$t
+Title of a work
+$u
+Affiliation
+$v
+Form subdivision
+$x
+General subdivision
+$y
+Chronological subdivision
+$z
+Geographic subdivision
+$0
+Authority record control number or standard number
+$2
+Source of heading or term
+$3
+Materials specified
+$4
+Relator code
+$6
+Linkage
+$8
+Field link and sequence number
+I
+611
+A
+Subject Added Entry - Meeting Name
+ID1	 
+Type of meeting name entry element
+0
+Inverted name
+1
+Jurisdiction name
+2
+Name in direct order
+ID2
+Thesaurus
+0
+Library of Congress Subject Headings
+1
+LC subject headings for children's literature
+2
+Medical Subject Headings
+3
+National Agricultural Library subject authority file
+4
+Source not specified
+5
+Canadian Subject Headings
+6
+Répertoire de vedettes-matière
+7
+Source specified in subfield 'Source of heading or term'
+B
+$a
+Meeting name or jurisdiction name as entry element
+$c
+Location of meeting
+$d
+Date of meeting
+$e
+Subordinate unit
+$f
+Date of a work
+$g
+Miscellaneous information
+$h
+Medium
+$j
+Relator term
+$k
+Form subheading
+$l
+Language of a work
+$n
+Number of part/section/meeting
+$p
+Name of part/section of a work
+$q
+Name of meeting following jurisdiction name entry element
+$s
+Version
+$t
+Title of a work
+$u
+Affiliation
+$v
+Form subdivision
+$x
+General subdivision
+$y
+Chronological subdivision
+$z
+Geographic subdivision
+$0
+Authority record control number or standard number
+$2
+Source of heading or term
+$3
+Materials specified
+$4
+Relator code
+$6
+Linkage
+$8
+Field link and sequence number
+I
+630
+A
+Subject Added Entry - Uniform Title
+ID1
+Nonfiling characters
+0
+0 nonfiling characters
+1
+1 nonfiling characters
+2
+2 nonfiling characters
+3
+3 nonfiling characters
+4
+4 nonfiling characters
+5
+5 nonfiling characters
+6
+6 nonfiling characters
+7
+7 nonfiling characters
+8
+8 nonfiling characters
+9
+9 nonfiling characters
+ID2
+Thesaurus
+0
+Library of Congress Subject Headings 
+1
+LC subject headings for children's literature 
+2
+Medical Subject Headings 
+3
+National Agricultural Library subject authority file 
+4
+Source not specified 
+5
+Canadian Subject Headings 
+6
+Répertoire de vedettes-matière 
+7
+Source specified in subfield 'Source of heading or term' 
+B
+$a
+Uniform title 
+$d
+Date of treaty signing 
+$e
+Relator term 
+$f
+Date of a work 
+$g
+Miscellaneous information 
+$h
+Medium 
+$k
+Form subheading 
+$l
+Language of a work 
+$m
+Medium of performance for music 
+$n
+Number of part/section of a work 
+$o
+Arranged statement for music 
+$p
+Name of part/section of a work 
+$r
+Key for music 
+$s
+Version 
+$t
+Title of a work 
+$v
+Form subdivision 
+$x
+General subdivision 
+$y
+Chronological subdivision 
+$z
+Geographic subdivision 
+$0
+Authority record control number
+$2
+Source of heading or term 
+$3
+Materials specified 
+$4
+Relator code 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+648
+A
+Subject Added Entry - Chronological Term
+ID1	 
+Type of date or time period
+#
+No information provided
+0
+Date or time period covered or depicted
+1
+Date or time period of creation or origin
+ID2
+Thesaurus
+0
+Library of Congress Subject Headings
+1
+LC subject headings for children's literature
+2
+Medical Subject Headings
+3
+National Agricultural Library subject authority file
+4
+Source not specified
+5
+Canadian Subject Headings
+6
+Répertoire de vedettes-matière
+7
+Source specified in subfield 'Source of heading or term'
+B
+$a
+Main term portion - Chronological term
+$v
+Subject subdivision portion - Form subdivision
+$x
+Subject subdivision portion - General subdivision
+$y
+Subject subdivision portion - Chronological subdivision
+$z
+Subject subdivision portion - Geographic subdivision
+$0
+Authority record control number or standard number
+$2
+Source of heading or term
+$3
+Materials specified
+$6
+Linkage
+$8
+Field link and sequence number
+I
+650
+A
+Subject Added Entry - Topical Term
+ID1
+Level of subject
+#
+No information provided 
+0
+No level specified 
+1
+Primary 
+2
+Secondary 
+ID2
+Thesaurus
+0
+Library of Congress Subject Headings 
+1
+LC subject headings for children's literature 
+2
+Medical Subject Headings 
+3
+National Agricultural Library subject authority file 
+4
+Source not specified 
+5
+Canadian Subject Headings 
+6
+Répertoire de vedettes-matière 
+7
+Source specified in subfield 'Source of heading or term' 
+B
+$a
+Main term portion - Topical term or geographic name entry element 
+$b
+Main term portion - Topical term following geographic name entry element 
+$c
+Main term portion - Location of event 
+$d
+Main term portion - Active dates 
+$e
+Main term portion - Relator term 
+$4
+Main term portion - Relator code 
+$v
+Subject subdivision portion - Form subdivision 
+$x
+Subject subdivision portion - General subdivision 
+$y
+Subject subdivision portion - Chronological subdivision 
+$z
+Subject subdivision portion - Geographic subdivision 
+$0
+Authority record control number
+$2
+Source of heading or term 
+$3
+Materials specified 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+651
+A
+Subject Added Entry - Geographic Name
+ID2
+Thesaurus
+0
+Library of Congress Subject Headings 
+1
+LC subject headings for children's literature 
+2
+Medical Subject Headings 
+3
+National Agricultural Library subject authority file 
+4
+Source not specified 
+5
+Canadian Subject Headings 
+6
+Répertoire de vedettes-matière 
+7
+Source specified in subfield 'Source of heading or term' 
+B
+$a
+Name portion - Geographic name 
+$e
+Name portion - Relator term 
+$4
+Name portion - Relator code 
+$v
+Subject subdivision portion - Form subdivision 
+$x
+Subject subdivision portion - General subdivision 
+$y
+Subject subdivision portion - Chronological subdivision 
+$z
+Subject subdivision portion - Geographic subdivision 
+$0
+Authority record control number
+$2
+Source of heading or term 
+$3
+Materials specified 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+653
+A
+Index Term - Uncontrolled
+ID1
+Level of index term
+#
+No information provided 
+0
+No level specified 
+1
+Primary 
+2
+Secondary 
+ID2
+Type of term or name
+#
+No information provided 
+0
+Topical term 
+1
+Personal name 
+2
+Corporate name 
+3
+Meeting name 
+4
+Chronological term 
+5
+Geographic name 
+6
+Genre/form term
+B
+$a
+Uncontrolled term 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+654
+A
+Subject Added Entry - Faceted Topical Terms
+ID1
+Level of subject
+#
+No information provided 
+0
+No level specified 
+1
+Primary 
+2
+Secondary 
+B
+$a
+Focus term 
+$b
+Non-focus term 
+$c
+Facet/hierarchy designation 
+$e
+Relator term 
+$v
+Form subdivision 
+$y
+Chronological subdivision 
+$z
+Geographic subdivision 
+$0
+Authority record control number
+$2
+Source of heading or term 
+$3
+Materials specified 
+$4
+Relator code 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+655
+A
+Index Term - Genre/Form
+ID1
+Type of heading
+#
+Basic 
+0
+Faceted 
+ID2
+Thesaurus
+0
+Library of Congress Subject Headings 
+1
+LC subject headings for children's literature 
+2
+Medical Subject Headings 
+3
+National Agricultural Library subject authority file 
+4
+Source not specified 
+5
+Canadian Subject Headings 
+6
+Répertoire de vedettes-matière 
+7
+Source specified in subfield 'Source of term' 
+B
+$a
+Genre/form data or focus term 
+$b
+Non-focus term 
+$c
+Facet/hierarchy designation 
+$v
+Form subdivision 
+$x
+General subdivision 
+$y
+Chronological subdivision 
+$z
+Geographic subdivision 
+$0
+Authority record control number
+$2
+Source of term 
+$3
+Materials specified 
+$5
+Institution to which field applies 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+656
+A
+Index Term - Occupation
+ID2
+Source of term
+7
+Source specified in subfield 'Source of term' 
+B
+$a
+Occupation 
+$k
+Form 
+$v
+Form subdivision 
+$x
+General subdivision 
+$y
+Chronological subdivision 
+$z
+Geographic subdivision 
+$0
+Authority record control number
+$2
+Source of term 
+$3
+Materials specified 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+657
+A
+Index Term - Function
+ID2
+Source of term
+7
+Source specified in subfield 'Source of term'  
+B
+$a
+Function 
+$v
+Form subdivision 
+$x
+General subdivision 
+$y
+Chronological subdivision 
+$z
+Geographic subdivision 
+$0
+Authority record control number
+$2
+Source of term 
+$3
+Materials specified 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+658
+A
+Index Term - Curriculum Objective
+B
+$a
+Main curriculum objective 
+$b
+Subordinate curriculum objective 
+$c
+Curriculum code 
+$d
+Correlation factor 
+$2
+Source of term or code 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+662
+A
+Subject Added Entry - Hierarchical Place Name
+B
+$a
+Country or larger entity 
+$b
+First-order political jurisdiction 
+$c
+Intermediate political jurisdiction 
+$d
+City 
+$e
+Relator term 
+$f
+City subsection 
+$g
+Other nonjurisdictional geographic region and feature 
+$h
+Extraterrestrial area 
+$0
+Authority record control number
+$2
+Source of heading or term 
+$4
+Relator code 
+$6
+Linkage 
+$8
+Field link and sequence number 

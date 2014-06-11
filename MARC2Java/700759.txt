@@ -1,0 +1,444 @@
+I
+700
+A
+Added Entry - Personal Name
+ID1
+Type of personal name entry element
+0
+Forename
+1
+Surname
+3
+Family name
+ID2
+Type of added entry
+#
+No information provided
+2
+Analytical entry
+B
+$a
+Personal name
+$b
+Numeration
+$c
+Titles and other words associated with a name
+$d
+Dates associated with a name
+$e
+Relator term
+$f
+Date of a work
+$g
+Miscellaneous information
+$h
+Medium
+$i
+Relationship information
+$j
+Attribution qualifier
+$k
+Form subheading
+$l
+Language of a work
+$m
+Medium of performance for music
+$n
+Number of part/section of a work
+$o
+Arranged statement for music
+$p
+Name of part/section of a work
+$q
+Fuller form of name
+$r
+Key for music
+$s
+Version
+$t
+Title of a work
+$u
+Affiliation
+$x
+International Standard Serial Number
+$0
+Authority record control number
+$3
+Materials specified
+$4
+Relator code
+$5
+Institution to which field applies
+$6
+Linkage
+$8
+Field link and sequence number
+I
+710
+A
+Added Entry - Corporate Name
+ID1	 
+Type of corporate name entry element
+0
+Inverted name
+1
+Jurisdiction name
+2
+Name in direct order
+ID2
+Type of added entry
+#
+No information provided
+2
+Analytical entry
+B
+$a
+Corporate name or jurisdiction name as entry element
+$b
+Subordinate unit
+$c
+Location of meeting
+$d
+Date of meeting or treaty signing
+$e
+Relator term
+$f
+Date of a work
+$g
+Miscellaneous information
+$h
+Medium
+$i
+Relationship information
+$k
+Form subheading
+$l
+Language of a work
+$m
+Medium of performance for music
+$n
+Number of part/section/meeting
+$o
+Arranged statement for music
+$p
+Name of part/section of a work
+$r
+Key for music
+$s
+Version
+$t
+Title of a work
+$u
+Affiliation
+$x
+International Standard Serial Number
+$0
+Authority record control number or standard number
+$3
+Materials specified
+$4
+Relator code
+$5
+Institution to which field applies
+$6
+Linkage
+$8
+Field link and sequence number
+I
+711
+A
+Added Entry - Meeting Name
+ID1	 
+Type of meeting name entry element
+0
+Inverted name
+1
+Jurisdiction name
+2
+Name in direct order
+ID2
+Type of added entry
+#
+No information provided
+2
+Analytical entry
+B
+$a
+Meeting name or jurisdiction name as entry element
+$c
+Location of meeting
+$d
+Date of meeting
+$e
+Subordinate unit
+$f
+Date of a work
+$g
+Miscellaneous information
+$h
+Medium
+$i
+Relationship information
+$j
+Relator term
+$k
+Form subheading
+$l
+Language of a work
+$n
+Number of part/section/meeting
+$p
+Name of part/section of a work
+$q
+Name of meeting following jurisdiction name entry element
+$s
+Version
+$t
+Title of a work
+$u
+Affiliation
+$x
+International Standard Serial Number
+$0
+Authority record control number or standard number
+$3
+Materials specified
+$4
+Relator code
+$5
+Institution to which field applies
+$6
+Linkage
+$8
+Field link and sequence number
+I
+720
+A
+Added Entry - Uncontrolled Name
+ID1
+Type of name
+#
+Not specified 
+1
+Personal 
+2
+Other 
+B
+$a
+Name 
+$e
+Relator term 
+$4
+Relator code 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+730
+A
+Added Entry - Uniform Title
+ID1
+Nonfiling characters
+0
+0 nonfiling characters
+1
+1 nonfiling characters
+2
+2 nonfiling characters
+3
+3 nonfiling characters
+4
+4 nonfiling characters
+5
+5 nonfiling characters
+6
+6 nonfiling characters
+7
+7 nonfiling characters
+8
+8 nonfiling characters
+9
+9 nonfiling characters
+ID2
+Type of added entry
+#
+No information provided
+2
+Analytical entry
+B
+$a
+Uniform title
+$d
+Date of treaty signing
+$f
+Date of a work
+$g
+Miscellaneous information
+$h
+Medium
+$i
+Relationship information
+$k
+Form subheading
+$l
+Language of a work
+$m
+Medium of performance for music
+$n
+Number of part/section of a work
+$o
+Arranged statement for music
+$p
+Name of part/section of a work
+$r
+Key for music
+$s
+Version
+$t
+Title of a work
+$x
+International Standard Serial Number
+$0
+Authority record control number
+$3
+Materials specified
+$5
+Institution to which field applies
+$6
+Linkage
+$8
+Field link and sequence number
+I
+740
+A
+Added Entry - Uncontrolled Related/Analytical Title
+ID1
+Nonfiling characters
+0
+0 nonfiling characters
+1
+1 nonfiling characters
+2
+2 nonfiling characters
+3
+3 nonfiling characters
+4
+4 nonfiling characters
+5
+5 nonfiling characters
+6
+6 nonfiling characters
+7
+7 nonfiling characters
+8
+8 nonfiling characters
+9
+9 nonfiling characters
+ID2
+Type of added entry
+#
+No information provided 
+2
+Analytical entry 
+B
+$a
+Uncontrolled related/analytical title 
+$h
+Medium 
+$n
+Number of part/section of a work 
+$p
+Name of part/section of a work 
+$5
+Institution to which field applies 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+751
+A
+Added Entry - Geographic Name
+B
+$a
+Geographic name 
+$e
+Relator term 
+$0
+Authority record control number 
+$2
+Source of heading or term 
+$3
+Materials specified 
+$4
+Relator code 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+752
+A
+Added Entry - Hierarchical Place Name
+B
+$a
+Country or larger entity 
+$b
+First-order political jurisdiction 
+$c
+Intermediate political jurisdiction 
+$d
+City 
+$f
+City subsection 
+$g
+Other nonjurisdictional geographic region and feature 
+$h
+Extraterrestrial area 
+$0
+Authority record control number
+$2
+Source of heading or term 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+753
+A
+System Details Access to Computer Files
+B
+$a
+Make and model of machine 
+$b
+Programming language 
+$c
+Operating system 
+$6
+Linkage 
+$8
+Field link and sequence number 
+I
+754
+A
+Added Entry - Taxonomic Identification
+B
+$a
+Taxonomic name 
+$c
+Taxonomic category 
+$d
+Common or alternative name 
+$x
+Non-public note 
+$z
+Public note 
+$0
+Authority record control number
+$2
+Source of taxonomic identification 
+$6
+Linkage 
+$8
+Field link and sequence number 

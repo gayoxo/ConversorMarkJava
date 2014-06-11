@@ -1,0 +1,55 @@
+I
+760
+A
+Main Series Entry
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Main series
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$s
+Uniform title
+$t
+Title
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
