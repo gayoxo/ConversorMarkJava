@@ -1,363 +1,55 @@
 I
-552
+760
 A
-Entity and Attribute Information Note
+Main Series Entry
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Main series
+8
+No display constant generated
 B
 $a
-Entity type label 
+Main entry heading
 $b
-Entity type definition and source 
+Edition
 $c
-Attribute label 
+Qualifying information
 $d
-Attribute definition and source 
-$e
-Enumerated domain value 
-$f
-Enumerated domain value definition and source 
+Place, publisher, and date of publication
 $g
-Range domain minimum and maximum 
+Related parts
 $h
-Codeset name and source 
+Physical description
 $i
-Unrepresentable domain 
-$j
-Attribute units of measurement and resolution 
-$k
-Beginning and ending date of attribute values 
-$l
-Attribute value accuracy 
+Relationship information
 $m
-Attribute value accuracy explanation 
+Material-specific details
 $n
-Attribute measurement frequency 
+Note
 $o
-Entity and attribute overview 
-$p
-Entity and attribute detail citation 
-$u
-Uniform Resource Identifier 
-$z
-Display note 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-555
-A
-Cumulative Index/Finding Aids Note
-ID1
-Display constant controller
-#
-Indexes 
-0
-Finding aids 
-8
-No display constant generated
-B
-$a
-Cumulative index/finding aids note 
-$b
-Availability source 
-$c
-Degree of control 
-$d
-Bibliographic reference 
-$u
-Uniform Resource Identifier 
-$3
-Materials specified 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-556
-A
-Information About Documentation Note
-ID1
-Display constant controller
-#
-Documentation 
-8
-No display constant generated
-B
-$a
-Information about documentation note 
-$z
-International Standard Book Number 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-561
-A
-Ownership and Custodial History
-ID1
-Privacy
-#
-No information provided
-0
-Private
-1
-Not private
-B
-$a
-History
-$u
-Uniform Resource Identifier
-$3
-Materials specified
-$5
-Institution to which field applies
-$6
-Linkage
-$8
-Field link and sequence number
-I
-562
-A
-Copy and Version Identification Note
-B
-$a
-Identifying markings 
-$b
-Copy identification 
-$c
-Version identification 
-$d
-Presentation format 
-$e
-Number of copies 
-$3
-Materials specified 
-$5
-Institution to which field applies 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-563
-A
-Binding Information
-B
-$a
-Binding note 
-$u
-Uniform Resource Identifier 
-$3
-Materials specified 
-$5
-Institution to which field applies 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-565
-A
-Case File Characteristics Note
-ID1
-Display constant controller
-#
-File size 
-0
-Case file characteristics 
-8
-No display constant generated 
-B
-$a
-Number of cases/variables 
-$b
-Name of variable 
-$c
-Unit of analysis 
-$d
-Universe of data 
-$e
-Filing scheme or code 
-$3
-Materials specified 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-567
-A
-Methodology Note
-ID1
-Display constant controller
-#
-Methodology 
-8
-No display constant generated
-B
-$a
-Methodology note 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-580
-A
-Linking Entry Complexity Note
-B
-$a
-Linking entry complexity note 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-581
-A
-Publications About Described Materials Note
-ID1
-Display constant controller
-#
-Publications 
-8
-No display constant generated 
-B
-$a
-Publications about described materials note 
-$z
-International Standard Book Number 
-$3
-Materials specified 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-583
-A
-Action Note
-ID1
-Privacy
-#
-No information provided 
-0
-Private 
-1
-Not private 
-B
-$a
-Action 
-$b
-Action identification 
-$c
-Time/date of action 
-$d
-Action interval 
-$e
-Contingency for action 
-$f
-Authorization 
-$h
-Jurisdiction 
-$i
-Method of action 
-$j
-Site of action 
-$k
-Action agent 
-$l
-Status 
-$n
-Extent 
-$o
-Type of unit 
-$u
-Uniform Resource Identifier 
+Other item identifier
+$s
+Uniform title
+$t
+Title
+$w
+Record control number
 $x
-Nonpublic note 
-$z
-Public note 
-$2
-Source of term 
-$3
-Materials specified 
-$5
-Institution to which field applies 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-584
-A
-Accumulation and Frequency of Use Note
-B
-$a
-Accumulation 
-$b
-Frequency of use 
-$3
-Materials specified 
-$5
-Institution to which field applies 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-585
-A
-Exhibitions Note
-B
-$a
-Exhibitions note 
-$3
-Materials specified 
-$5
-Institution to which field applies 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-586
-A
-Awards Note
-ID1
-Display constant controller
-#
-Awards 
-8
-No display constant generated 
-B
-$a
-Awards note 
-$3
-Materials specified 
-$6
-Linkage 
-$8
-Field link and sequence number 
-I
-588
-A
-Source of Description Note
-ID1	 ID2
-Display constant controller
-#
-No information provided
-0
-Source of description
-1
-Latest issue consulted
-B
-$a
-Source of description note
-$5
-Institution to which field applies
+International Standard Serial Number
+$y
+CODEN designation
+$4
+Relationship code
 $6
 Linkage
+$7
+Control subfield
 $8
 Field link and sequence number
