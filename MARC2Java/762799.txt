@@ -1,0 +1,910 @@
+I
+762
+A
+Subseries Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Has subseries
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$s
+Uniform title
+$t
+Title
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+765
+A
+Original Language Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Translation of
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$r
+Report number
+$s
+Uniform title	
+$t
+Title
+$u
+Standard Technical Report Number
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$z
+International Standard Book Number
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+767
+A
+Translation Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Translated as
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts(R)
+$h
+Physical description
+$i
+Relationship information
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$r
+Report number
+$s
+Uniform title	
+$t
+Title
+$u
+Standard Technical Report Number
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$z
+International Standard Book Number
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+770
+A
+Supplement/Special Issue Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Has supplement
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$r
+Report number
+$s
+Uniform title
+$t
+Title
+$u
+Standard Technical Report Number
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$z
+International Standard Book Number
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+772
+A
+Supplement Parent Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Supplement to
+0
+Parent
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$r
+Report number
+$s
+Uniform title
+$t
+Title
+$u
+Standard Technical Report Number
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$z
+International Standard Book Number
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+773
+A
+Host Item Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+In
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$p
+Abbreviated title
+$q
+Enumeration and first page
+$r
+Report number
+$s
+Uniform title
+$t
+Title
+$u
+Standard Technical Report Number
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$z
+International Standard Book Number
+$3
+Materials specified
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+774
+A
+Constituent Unit Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Constituent unit
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$r
+Report number
+$s
+Uniform title
+$t
+Title
+$u
+Standard Technical Report Number
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$z
+International Standard Book Number
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+775
+A
+Other Edition Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Other edition available
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$e
+Language code
+$f
+Country code
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$r
+Report number
+$s
+Uniform title
+$t
+Title
+$u
+Standard Technical Report Number
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$z
+International Standard Book Number
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+776
+A
+Additional Physical Form Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Available in another form
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$r
+Report number
+$s
+Uniform title
+$t
+Title
+$u
+Standard Technical Report Number
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$z
+International Standard Book Number
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+777
+A
+Issued With Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Issued with
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$s
+Uniform title
+$t
+Title
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+780
+A
+Preceding Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Type of relationship
+0
+Continues
+1
+Continues in part
+2
+Supersedes
+3
+Supersedes in part
+4
+Formed by the union of ... and ...
+5
+Absorbed
+6
+Absorbed in part
+7
+Separated from
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$r
+Report number
+$s
+Uniform title
+$t
+Title
+$u
+Standard Technical Report Number
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$z
+International Standard Book Number
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+785
+A
+Succeeding Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Type of relationship
+0
+Continued by
+1
+Continued in part by
+2
+Superseded by
+3
+Superseded in part by
+4
+Absorbed by
+5
+Absorbed in part by
+6
+Split into ... and ...
+7
+Merged with ... to form ...
+8
+Changed back to
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$r
+Report number
+$s
+Uniform title
+$t
+Title
+$u
+Standard Technical Report Number
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$z
+International Standard Book Number
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+786
+A
+Data Source Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Data source
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$j
+Period of content
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$p
+Abbreviated title
+$r
+Report number
+$s
+Uniform title
+$t
+Title
+$u
+Standard Technical Report Number
+$v
+Source Contribution
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$z
+International Standard Book Number
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+787
+A
+Other Relationship Entry (RAR)
+ID1
+Note controller
+0
+Display note
+1
+Do not display note
+ID2
+Display constant controller
+#
+Related item
+8
+No display constant generated
+B
+$a
+Main entry heading
+$b
+Edition
+$c
+Qualifying information
+$d
+Place, publisher, and date of publication
+$g
+Related parts
+$h
+Physical description
+$i
+Relationship information
+$k
+Series data for related item
+$m
+Material-specific details
+$n
+Note
+$o
+Other item identifier
+$r
+Report number
+$s
+Uniform title
+$t
+Title
+$u
+Standard Technical Report Number
+$w
+Record control number
+$x
+International Standard Serial Number
+$y
+CODEN designation
+$z
+International Standard Book Number
+$4
+Relationship code
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number

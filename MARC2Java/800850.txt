@@ -1,0 +1,280 @@
+I
+800
+A
+Series Added Entry - Personal Name
+ID1	
+Type of personal name entry element
+0
+Forename
+1
+Surname
+3
+Family name
+B
+$a
+Personal name
+$b
+Numeration
+$c
+Titles and other words associated with a name
+$d
+Dates associated with a name
+$e
+Relator term
+$f
+Date of a work
+$g
+Miscellaneous information
+$h
+Medium
+$j
+Attribution qualifier
+$k
+Form subheading
+$l
+Language of a work
+$m
+Medium of performance for music
+$n
+Number of part/section of a work
+$o
+Arranged statement for music
+$p
+Name of part/section of a work
+$q
+Fuller form of name
+$r
+Key for music
+$s
+Version
+$t
+Title of a work
+$u
+Affiliation
+$v
+Volume/sequential designation
+$w
+Bibliographic record control number
+$x
+International Standard Serial Number
+$0
+Authority record control number
+$3
+Materials specified
+$4
+Relator code
+$5
+Institution to which field applies
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+810
+A
+Series Added Entry - Corporate Name
+ID1
+Type of corporate name entry element
+0
+Inverted name
+1
+Jurisdiction name
+2
+Name in direct order
+B
+$a
+Corporate name or jurisdiction name as entry element
+$b
+Subordinate unit
+$c
+Location of meeting
+$d
+Date of meeting or treaty signing
+$e
+Relator term
+$f
+Date of a work
+$g
+Miscellaneous information
+$h
+Medium
+$k
+Form subheading
+$l
+Language of a work
+$m
+Medium of performance for music
+$n
+Number of part/section/meeting
+$o
+Arranged statement for music
+$p
+Name of part/section of a work
+$r
+Key for music
+$s
+Version
+$t
+Title of a work
+$u
+Affiliation
+$v
+Volume/sequential designation
+$w
+Bibliographic record control number
+$x
+International Standard Serial Number
+$0
+Authority record control number or standard number
+$3
+Materials specified
+$4
+Relator code
+$5
+Institution to which field applies
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+811
+A
+Series Added Entry - Meeting Name
+ID1
+Type of meeting name entry element
+0
+Inverted name
+1
+Jurisdiction name
+2
+Name in direct order
+B
+$a
+Meeting name or jurisdiction name as entry element
+$c
+Location of meeting
+$d
+Date of meeting
+$e
+Subordinate unit
+$f
+Date of a work
+$g
+Miscellaneous information
+$h
+Medium
+$j
+Relator term
+$k
+Form subheading
+$l
+Language of a work
+$n
+Number of part/section/meeting
+$p
+Name of part/section of a work
+$q
+Name of meeting following jurisdiction name entry element
+$s
+Version
+$t
+Title of a work
+$u
+Affiliation
+$v
+Volume/sequential designation
+$w
+Bibliographic record control number
+$x
+International Standard Serial Number
+$0
+Authority record control number or standard number
+$3
+Materials specified
+$4
+Relator code
+$5
+Institution to which field applies
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
+I
+830
+A
+Series Added Entry - Uniform Title
+ID2
+Nonfiling characters
+0
+No nonfiling characters
+1
+1 nonfiling characters
+2
+2 nonfiling characters
+3
+3 nonfiling characters
+4
+4 nonfiling characters
+5
+5 nonfiling characters
+6
+6 nonfiling characters
+7
+7 nonfiling characters
+8
+8 nonfiling characters
+9
+9 nonfiling characters
+B
+$a
+Uniform title
+$d
+Date of treaty signing
+$f
+Date of a work
+$g
+Miscellaneous information
+$h
+Medium
+$k
+Form subheading
+$l
+Language of a work
+$m
+Medium of performance for music
+$n
+Number of part/section of a work
+$o
+Arranged statement for music
+$p
+Name of part/section of a work
+$r
+Key for music
+$s
+Version
+$t
+Title of a work
+$v
+Volume/sequential designation
+$w
+Bibliographic record control number
+$x
+International Standard Serial Number
+$0
+Authority record control number
+$3
+Materials specified
+$5
+Institution to which field applies
+$6
+Linkage
+$7
+Control subfield
+$8
+Field link and sequence number
